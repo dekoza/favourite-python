@@ -13,3 +13,5 @@ No particular order at the moment, this will probably change in future.
 * [Pendulum](https://pendulum.eustace.io/) - best transparent (drop-in) datetime replacement. I used Arrow before but it didn't handle DST correctly and wasn't transparent.
 * [Strawberry](https://strawberry.rocks/) - code-first GraphQL library inspired by dataclasses. Looks like perfect match for FastAPI. Graphene has no async. Ariadne and Tartiflette are schema-first which is an approach I currently dislike.
 * [Saleor](https://saleor.io/) - GraphQL-based headless eCommerce platform.
+* [Rich](https://rich.readthedocs.io/) - give your CLI a bit of colour.
+* [Textual](https://github.com/Textualize/textual) - Text User Interface framework built around Rich.
