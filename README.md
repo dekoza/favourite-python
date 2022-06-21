@@ -16,3 +16,4 @@ No particular order at the moment, this will probably change in future.
 * [Rich](https://rich.readthedocs.io/) - give your CLI a bit of colour.
 * [Textual](https://github.com/Textualize/textual) - Text User Interface framework built around Rich.
 * [PikePDF](https://github.com/pikepdf/pikepdf) - most feature-rich PDF manipulation library for Python.
+* [Diagrams](https://diagrams.mingrammer.com/) - cloud architecture diagrams as code; clever use of bitshift operator 🤔
