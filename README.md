@@ -17,3 +17,4 @@ No particular order at the moment, this will probably change in future.
 * [Textual](https://github.com/Textualize/textual) - Text User Interface framework built around Rich.
 * [PikePDF](https://github.com/pikepdf/pikepdf) - most feature-rich PDF manipulation library for Python.
 * [Diagrams](https://diagrams.mingrammer.com/) - cloud architecture diagrams as code; clever use of bitshift operator 🤔
+* [Pint](https://pint.readthedocs.io/en/stable/) - unit convertion made trivial
