@@ -11,7 +11,7 @@ No particular order at the moment, this will probably change in future.
 * [Poetry](https://python-poetry.org/) - dependency management and packaging in elegant form.
 * [PonyORM](https://ponyorm.org/) - the most pythonic ORM there is. You literally write queries by writing lambdas and generators. Produces incredibly optimized SQL. Cons: no migrations, no async.
 * [Pendulum](https://pendulum.eustace.io/) - best transparent (drop-in) datetime replacement. I used Arrow before but it didn't handle DST correctly and wasn't transparent.
-* [Strawberry](https://strawberry.rocks/) - code-first GraphQL library inspired by dataclasses. Looks like perfect match for FastAPI. Graphene has no async. Ariadne and Tartiflette are schema-first which is an approach I currently dislike.
+* [Strawberry](https://strawberry.rocks/) - the only code-first GraphQL library that is inspired by dataclasses and is async. Looks like perfect match for FastAPI. Other libs might be more popular but are schema-first and I dislike this approach as not DRY enough.
 * [Saleor](https://saleor.io/) - GraphQL-based headless eCommerce platform.
 * [Rich](https://rich.readthedocs.io/) - give your CLI a bit of colour.
 * [Textual](https://github.com/Textualize/textual) - Text User Interface framework built around Rich.
