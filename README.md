@@ -18,3 +18,4 @@ No particular order at the moment, this will probably change in future.
 * [PikePDF](https://github.com/pikepdf/pikepdf) - most feature-rich PDF manipulation library for Python.
 * [Diagrams](https://diagrams.mingrammer.com/) - cloud architecture diagrams as code; clever use of bitshift operator 🤔
 * [Pint](https://pint.readthedocs.io/en/stable/) - unit convertion made trivial
+* [Mutatest](https://github.com/EvanKepner/mutatest) - mutation testing for Python
